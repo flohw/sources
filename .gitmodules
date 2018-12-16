@@ -1,3 +1,6 @@
 [submodule "programms/dmenu"]
 	path = programms/dmenu
 	url = git://git.suckless.org/dmenu
+[submodule "programms/st"]
+	path = programms/st
+	url = git://git.suckless.org/st

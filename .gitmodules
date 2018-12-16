@@ -4,3 +4,6 @@
 [submodule "programms/st"]
 	path = programms/st
 	url = git://git.suckless.org/st
+[submodule "programms/dwm"]
+	path = programms/dwm
+	url = git://git.suckless.org/dwm

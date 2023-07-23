@@ -1,3 +1,5 @@
-* dmenu-fuzzymatch-ci-4.9.diff
-* dmenu-caseinsentitive-20200523-db6093f.diff
-* dmenu-fuzzyhighlight-ci-4.9.diff
+* dmenu-fuzzymatch-4.9.diff
+* dmenu-fuzzyhighlight-caseinsensitive-4.9.diff
+* Edit dmenu.c according to dmenu.c.rej
+* dmenu-caseinsensitive-5.0.diff
+* Edit dmenu.c according to dmenu.c.rej
